@@ -1,8 +1,19 @@
-# Nielsen — Python & OpenAI SDK Expert
+<h2 align="center">
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,
+</h2>
+
+<!-- <p align="center">
+  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+    </a>
+     <a href="https://github.com/corasphinx">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/corasphinx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+    </p> -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python,%20Open AI%20SDK%20Developer;5+%2B%20years%20of%20engineering;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></img>
+</p>
 
 ## 👋 About Me
-
-Hi, I'm **Nielsen**, a developer from the **Philippines** specializing in:
 
 * **Python Development**
 * **OpenAI Integrations (Models, Assistants, Embeddings, Fine‑Tuning)**
