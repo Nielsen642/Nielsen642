@@ -1,19 +1,7 @@
 <h2 align="center">
-  Hi,I'm Nielsen Oliver <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,
+  Hi,I'm Nielsen Oliver, Python, Open AI, SDK expert
 </h2>
-
-<!-- <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    </a>
-     <a href="https://github.com/corasphinx">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/corasphinx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-    </p> -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python,%20Open*AI*SDK%20Developer;5+%2B%20years%20of%20engineering;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></img>
-</p>
-
-## 🤦‍♂️ About Me
+ 🤦‍♂️ About Me
 
 * **Python Development**
 * **OpenAI Integrations (Models, Assistants, Embeddings, Fine‑Tuning)**
@@ -22,19 +10,7 @@
 
 I build fast, reliable, and scalable AI + Python solutions.
 
----
-
 ## 🧠 Skills
-
-### **Languages & Tools**
-
-* Python (FastAPI, Django, Flask)
-* JavaScript / TypeScript
-* REST APIs, Webhooks
-* SDK development & documentation
-* OpenAI API + Assistants v2
-* AI automation (Agents, LangChain, custom pipelines)
-* Data parsing (PDF, Excel, web crawling)
 <table>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="100"></td>
@@ -69,11 +45,6 @@ I build fast, reliable, and scalable AI + Python solutions.
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/electron-67-1175035.png" width="100"></td>
   </tr>
 </table>
-### **Cloud & DevOps**
-
-* Docker, GitHub Actions
-* AWS / Vercel / Railway
-
 ---
 
 ## 🚀 Featured Projects
