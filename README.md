@@ -45,23 +45,6 @@ I build fast, reliable, and scalable AI + Python solutions.
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/electron-67-1175035.png" width="100"></td>
   </tr>
 </table>
----
-
-## 🚀 Featured Projects
-
-### **🔹 Intelligent Data Extractor (Python + OpenAI)**
-
-Automated tool that extracts structured data from PDFs, images, and websites using GPT models.
-
-### **🔹 Custom OpenAI SDK Wrapper**
-
-A developer-friendly SDK for integrating GPT models into Python applications with built-in retries, logging, and rate limiting.
-
-### **🔹 AI‑Powered Customer Support Bot**
-
-End-to-end chatbot using OpenAI, vector embeddings, and FastAPI.
-
-### **🔹 Automation Scripts Library**
 
 Collection of useful Python automations: email scrapers, website crawlers, PDF processors, etc.
 
