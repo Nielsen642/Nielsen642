@@ -45,7 +45,3 @@ I build fast, reliable, and scalable AI + Python solutions.
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/electron-67-1175035.png" width="100"></td>
   </tr>
 </table>
-
-Collection of useful Python automations: email scrapers, website crawlers, PDF processors, etc.
-
----
