@@ -9,7 +9,7 @@
 * Automation, scraping, backend systems, and AI-driven applications
 
 I build fast, reliable, and scalable AI + Python solutions.
-Contact ME: Telegram : @BTCSentinel83
+Contact ME: Telegram : @BTCSentinel83 WhatsAPP:+63 946 891 1561
 
 ## 🧠 Skills
 <table>
